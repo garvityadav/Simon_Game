@@ -1,2 +1,2 @@
 # Simon_Game
-Basic game to practice jQuery and JS.
+Simon is an electronic game of short-term memory.

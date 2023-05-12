@@ -1,2 +1,2 @@
 # Simon_Game
-Simon is an electronic game of short-term memory.
+Simon is a game of short-term memory, made using basic JQuery and JS
